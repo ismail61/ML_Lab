@@ -1,3 +1,2 @@
-# ML_Lab
-ML Lab Assignments
+# ML Lab Assignment
 Reg No: 2017831061
